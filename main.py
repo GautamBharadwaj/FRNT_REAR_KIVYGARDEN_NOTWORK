@@ -1,6 +1,7 @@
 from kivy.app import App
 from kivy.lang import Builder
 
+import cv2
 
 class Main(App):
     def build(self):
